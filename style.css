@@ -31,7 +31,7 @@
     left: 0;
     background-color: rgb(0, 0, 0);
     font-family: 'Mukta', sans-serif;
-    font-size: 85px;
+    font-size: 70px;
     color: rgb(255, 255, 255);
     mix-blend-mode: multiply;
     display: flex;
@@ -350,7 +350,15 @@ footer {
 
 .about .about-content .right a {
     display: inline-block;
-    background: #52bde7;
+    background: linear-gradient(
+        135deg,
+        #EED2C8,
+        #E889A7,
+        #A78BCF,
+        #7C8ED1,
+        #4FA3C8,
+        #1FA9BC
+    );
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -502,7 +510,15 @@ footer {
 
 .skills .skills-content .left a {
     display: inline-block;
-    background: #52bde7;
+    background: linear-gradient(
+        135deg,
+        #EED2C8,
+        #E889A7,
+        #A78BCF,
+        #7C8ED1,
+        #4FA3C8,
+        #1FA9BC
+    );
     color: #fff;
     font-size: 18px;
     font-weight: 500;
