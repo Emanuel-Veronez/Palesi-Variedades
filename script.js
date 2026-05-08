@@ -18,7 +18,7 @@ $(document).ready(function() {
 
     
     var typed = new Typed(".typing-2", {
-        strings: ["Dono da", "Palesi Variedades"],
+        strings: ["Palesi", "Variedades"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
