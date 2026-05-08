@@ -59,12 +59,7 @@ $(document).ready(function() {
         backSpeed: 100,
         loop: true
     })
-    var typed = new Typed(".typing-9", {
-        strings: ["Emanuel Veronez"],
-        typeSpeed: 150,
-        backSpeed: 100,
-        loop: true
-    })
+    
 
 
     $('.menu-btn').click(function() {
