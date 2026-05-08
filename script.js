@@ -30,7 +30,7 @@ $(document).ready(function() {
         loop: true
     })
     var typed = new Typed(".typing-4", {
-        strings: ["Meus Trabalhos"],
+        strings: ["Trabalhos"],
         typeSpeed: 100,
         backSpeed: 100,
         loop: true
