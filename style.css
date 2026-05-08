@@ -989,3 +989,7 @@ footer span a:hover {
         font-size: 27px;
     }
 }
+
+html, body {
+    overflow-x: hidden;
+}
